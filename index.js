@@ -1,0 +1,1 @@
+module.exports = (string) => console.log('Hola, $(string) como estas?')
